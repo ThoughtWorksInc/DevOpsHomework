@@ -15,7 +15,7 @@ ruby版本；
 ###验收要求
 ----
 1. 两份Vagratfile,和对应的provision的脚本(最好不要inline)
-2. 运行`vagrant provision`命令可以正确的准备好开发环境和部署产品环境
+2. 运行`vagrant provision`命令可以正确的准备好开发环境和部署产品环境，如产品环境部署完后，可以在宿主机通过`http://localhost:8080/`访问该例子应用
 3. 给出github repo的link也可以
 
 ###有用的链接
