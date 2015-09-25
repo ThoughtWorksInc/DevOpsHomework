@@ -22,3 +22,5 @@ ruby版本；
 ----
 1. [vagrant](https://vagrantup.com)
 2. [vagrant虚拟机下载地址](https://vagrantup.com)
+3. [java应用的例子](https://github.com/spring-projects/spring-mvc-showcase)
+4. [rails应用的例子](https://github.com/jehughes/rails4-example)
